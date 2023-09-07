@@ -1,6 +1,6 @@
-package homework.Number_1;
+package de.telran.HomeWork_n1_Lesson2;
 
-public class Main {
+public class ParseNumber {
     public static void main(String[] args) {
         char ch = 'G';
         int in = 89;
