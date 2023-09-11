@@ -1,4 +1,4 @@
-package de.telran.HomeWork_n1_Lesson2;
+package de.telran.homeWork_n1_Lesson2;
 
 public class ParseNumber {
     public static void main(String[] args) {
